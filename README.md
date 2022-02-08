@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tabbathacrouch
 - 👀 I’m interested in all things. But more specficially, I am interested in web development. 
-- 🌱 I’m currently learning React and JavaScript.
+- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on anything that makes an impact. 
 - 📫 How to reach me https://tabbathacrouch.com/
 
