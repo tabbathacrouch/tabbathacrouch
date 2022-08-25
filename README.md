@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tabbathacrouch
 - 🌱 I’m currently working with TypeScript and React Native.
-- 💞️ I’m looking to collaborate on anything that makes an impact. 
-- 📫 How to reach me https://tabbathacrouch.com/
+- :sunglasses: I’m looking to collaborate on anything that makes an impact. 
+-  	:yellow_heart: Portfolio --> https://tabbathacrouch.com/
 
 <!---
 tabbathacrouch/tabbathacrouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
