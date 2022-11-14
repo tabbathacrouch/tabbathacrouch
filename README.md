@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tabbathacrouch
 - 🌱 I’m currently working with TypeScript and React Native.
-- :sunglasses: I’m looking to collaborate on anything that makes an impact. 
+- :sunglasses: I’m open to collaborating on anything that makes an impact. 
 -  	:yellow_heart: Portfolio --> https://tabbathacrouch.com/
 
 <!---
